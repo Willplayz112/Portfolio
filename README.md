@@ -1,2 +1,2 @@
-# Portfolio
-My portfolio of what i know and understand
+# My Portfolio
+My portfolio of what I know and understand
