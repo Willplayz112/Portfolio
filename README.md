@@ -1,2 +1,2 @@
-# My Portfolio
-My portfolio of what I know and understand
+# My portfolio
+This is my websites github for my portfolio website
